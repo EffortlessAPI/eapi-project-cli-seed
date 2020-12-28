@@ -6,7 +6,7 @@
   "bin": "cli.js",
   "scripts": {
     "build": "dotnet build ej-tictactoe-demo.sln",
-    "start": "dotnet DotNet/EAPICLI/bin/Debug/netcoreapp2.1/eapicli.dll",
+    "start": "dotnet DotNet/EAPICLI/bin/Debug/netcoreapp3.1/eapicli.dll",
     "postinstall": "npm run build"
   },
   "keywords": [],
